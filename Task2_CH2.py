@@ -181,11 +181,11 @@ Programming = {
 print(f'HTML Progress Is {Programming["HTML"]}%')
 print(f'CSS Progress Is {Programming["CSS"]}%')
 print(f'Python Progress Is {Programming["Python"]}%')
-Programming["AI"] = 20
-print(f'AI Progress Is {Programming["AI"]}%')
+Programming["Java"] = 50
+print(f'Java Progress Is {Programming["Java"]}%')
 '''
 HTML Progress Is 90%
 CSS Progress Is 80%
 Python Progress Is 30%
-AI Progress Is 20%
+Java Progress Is 50%
 '''
